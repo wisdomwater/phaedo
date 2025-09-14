@@ -84,4 +84,59 @@ Socrates offered an example: “If someone asks why I am sitting here, would you
 
 This same confusion, Socrates noted, led people astray in their theories about the earth’s motions and position. They mistook material conditions for true causes. “None of them see,” he said, “that the power of the good is stronger than any Atlas. Yet this ‘best’—the true reason why things are as they are—remains undiscovered. At best, we can only reach what is second-best.”
 
-313
+Socrates then spoke of a danger in contemplating the nature of things. It is like gazing at the sun during an eclipse—one must be careful not to damage the eyes. Instead, we look at the sun’s reflection in water or in glass. “In the same way,” he said, “I feared for the eye of my soul. I thought it safer to turn to the clear path of Ideas. Not that one who contemplates existence through the Ideas sees only dimly—no more than one who looks at the reflection of the sun sees dimly—but rather that this is the safer way for me.”
+
+If the existence of the Ideas is granted, Socrates believed, then the immortality of the soul could be shown without difficulty. He asked only one more thing: that we admit Beauty itself is the cause of all that is beautiful, Greatness the cause of all that is great, Smallness the cause of all that is small, and so on with the rest.
+
+“This,” he said, “is the safe and simple answer. It spares us the contradictions of saying that something is greater because of something smaller, or that addition and subtraction explain the very essence of things. Let subtler minds chase those puzzles. As for me, I prefer to test an idea by its consequences. And if pressed to give an account of it, I return to some higher principle that seems best, until at last I reach a place where I can rest.”
+
+The company agreed readily with the doctrine of Ideas, a truth they had long accepted and which, as the Phliasian listener remarked, would surely command the assent of any thoughtful person. Socrates then pressed further, wanting to explain how opposites might appear to exist together, but in truth they never do.
+
+Take Simmias as an example, he said. Compared with Socrates, Simmias is tall. Compared with Phaedo, he is short. We might say he is both tall and short. But in reality, he is not both at once. He is tall in relation to one man and short in relation to another. The qualities themselves—tallness and shortness—never occupy the same place at the same time. If smallness is in me, then greatness is driven out.
+
+One of the friends objected: *But did you not once argue that opposites generate one another?*
+
+Yes, Socrates replied, but that argument concerned the process of becoming, not the Ideas themselves. Living things give rise to dying, and dying gives rise to living. But life and death as Ideas, or greatness and smallness in themselves, never coexist in the same subject.
+
+He went on: this principle of exclusion holds not only for opposites themselves, but also for whatever is inseparably bound to them. Heat is opposed to cold, and fire, which is inseparably linked with heat, can never admit cold. Snow, bound up with cold, can never admit heat. In the same way, odd and even exclude one another, and the number three, which always carries oddness, can never admit evenness.
+
+So we can go a step further. Just as three, which participates in oddness, will always resist evenness, so the soul, which always carries life, will always resist death. Life excludes death, and since the soul is inseparably bound to life, it too excludes death. What is inseparable from life cannot perish.
+
+If the principle of oddness itself were imperishable, then three would never be destroyed when confronted with evenness—it would simply withdraw. So too, the soul, bound to life, does not perish when death approaches. It withdraws, but it does not cease. The immortal is imperishable. And therefore, the soul cannot die.
+
+With these arguments, the circle of objections was closed. The company fell quiet, as if recognizing that the soul’s immortality had been firmly established. And now Socrates turned to what mattered most: the application.
+
+“If the soul is indeed immortal,” he asked, “what kind of people ought we to be? Not only with regard to our brief span of time here, but with regard to eternity. For death is not the end. The wicked are not freed from their evil by dying; each person carries into the next world only what they have become.”
+
+He explained that after death the soul is carried to judgment. There, she receives what is fitting, and in the cycle of ages may return to earth again. The wise and purified soul knows her path. She follows the angel who guides her surely through the twisting ways of the world below. But the soul that is impure and unprepared drifts without direction—restless, unaccompanied, wandering until at last she is drawn to her own place, just as the purified soul is carried to hers.
+
+“To help you understand this more clearly,” Socrates said, “I must describe to you the true nature and form of the earth.”
+
+Socrates began to describe the earth as it truly is.
+
+“The whole earth,” he said, “is a perfect globe, resting in the center of the heavens, held there by the balance of all things. What we call ‘the earth’—the land we walk upon—is but a shallow hollow, where mists and waters and the thick lower air have settled. The true earth lies above, in a finer and purer element.
+
+“If we, like birds, could rise through the air as fish rise through the sea, we would behold the real earth and the real heavens and stars. What we see here is dulled and corrupted. Even the fairest land of our world is nothing but mud and water compared with that higher realm. But the heavenly earth shines with many colors, bright with jewels more brilliant than gold and purer than snow, blooming with endless flowers and fruit. Its people dwell along the sea of air or in the ‘islands of the blessed,’ speaking with the gods and beholding the sun, moon, and stars as they truly are. Their blessedness matches this beauty.”
+
+He went on to describe the hidden depths beneath our own world. The surface of the globe, he said, is full of hollows of many shapes and sizes, all connected by underground channels. At the center is a vast chasm called Tartarus, where streams of fire, water, and liquid mud flow continually. From there, smaller branches rise to the surface, giving birth to our seas, rivers, and volcanoes.
+
+The whole earth breathes in and out: waters fall into the depths, return again, and in their course form rivers and lakes. Yet none pass beyond the very center; on either side sheer precipices halt their flow.
+
+Among these rivers, four are greatest. Oceanus flows all around the earth like a girdle. Acheron runs the opposite way, winding under the earth through desert places until it reaches the Acherusian Lake, where the souls of the dead wait for their time to return to life. Pyriphlegethon, a stream of fire, coils around the earth before plunging into Tartarus. The fourth, Cocytus, is the river sung of by poets as the Stygian stream; it forms the dark lake of Styx and gathers strange powers from its waters before descending too into Tartarus.”
+
+Socrates then described what becomes of the dead. First, every soul is judged according to its deeds. Those who are beyond cure, hardened in wickedness, are cast into Tartarus and never return. Those guilty of lesser faults undergo purification for their wrongs and then receive reward for the good they have done.
+
+There are others, guilty of grave but not unforgivable crimes. These, too, are thrown into Tartarus. But after a year, the currents of Pyriphlegethon or Cocytus cast them forth, carrying them to the Acherusian Lake. There they call upon the souls they have wronged, begging release. If their victims consent, they may at last step out into the lake and find rest from their suffering. If not, they are swept back into Tartarus, to circle again and again, until mercy is finally granted.
+
+Meanwhile, the pure souls receive their reward. They dwell in the upper earth, in places of brightness and peace. And a select few, the noblest and most purified, ascend to mansions fairer still.
+
+Socrates admitted that he could not insist on the literal truth of every detail in this description. But he was certain of this much: something like it awaits us. And so, he said, the one who has sought the joy of wisdom and turned away from the cravings of the body has every reason to meet death with hope. For already death’s voice is whispering, and one day it will call to all.
+
+At last the hour had come, and Socrates was asked how he wished to be buried. He gently refused the question. “You will not be burying me,” he said, “but only this body. When the time comes, you may lay it in the earth, but do not think of it as me. For I will be gone.”
+
+He added with a touch of humor: “Once you gave surety that I would remain here. Now you shall give surety that I have escaped.” Still, he did not despise the customs of burial—washing, rites, and ceremony would be done as was fitting.
+
+When the cup of poison was brought, Socrates asked whether he might pour out a portion as a libation. The jailer said no, only enough was prepared for drinking. “Very well,” Socrates replied, “then I will make the offering in spirit, if not in form.”
+
+And as he drank, he made one last request—words that puzzled many after him: “Crito, we owe a cock to Asclepius. See that it is paid.” Some thought he spoke with irony, lightly remembering a small religious duty in his final moment, just as earlier he had written verses to honor a dream’s command. Others believed he meant something deeper: that in death he had been restored to true health, and so he offered a thank-offering to the god of healing.
+
