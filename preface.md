@@ -1,4 +1,4 @@
-# Foreword
+# Preface
 
 Among the writings of Plato, few are as beloved or as solemn as the *Phaedo*. It is the story of Socrates’ final day, told by his student Phaedo to friends who wished to know not only the arguments spoken, but the spirit with which they were given. In it we find philosophy at its most human — a teacher preparing for death, a circle of companions struggling with grief, and a conversation that turns toward the deepest questions: What is the soul? What happens when we die? How should we live in light of these truths?
 
