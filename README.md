@@ -44,7 +44,3 @@ This is a creative spiritual work. It does not claim academic precision or autho
 
 *May this dialogue be a quiet companion —
 a mirror for the soul, and a guide toward freedom and peace.*
-
----
-
-Would you like me to make a **slightly shorter variant** (optimized for GitHub’s repository preview pane, ~⅔ this length) or keep this full devotional tone as your main README?
